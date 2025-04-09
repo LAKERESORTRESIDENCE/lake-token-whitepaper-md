@@ -1,0 +1,113 @@
+# LAKE Token Whitepaper (ENG)
+
+**Project Name**: LAKE Token  
+**Ticker**: LAKE  
+**Blockchain**: BNB Chain (BEP-20)  
+**Smart Contract**: `0xa5706783e577b1a9a9a89502efb5387fedaec6e0`  
+**Website**: [www.lakeresortresidence.com](https://www.lakeresortresidence.com)  
+**Contact**: investors@lakeresortresidence.com  
+
+---
+
+## Executive Summary
+
+LAKE Token is the native utility and governance token of LAKE Resort & Residence, a real estate and luxury lifestyle ecosystem located on the pristine shores of Issyk-Kul Lake, Kyrgyzstan.
+
+Unlike meme coins or speculative digital assets, LAKE is backed by real-world value — including physical villas, land ownership, and operational income. The token offers real yield through staking, DAO governance rights, and exclusive access to the resort ecosystem.
+
+---
+
+## Vision
+
+To become the world’s leading tokenized luxury real estate and lifestyle platform — combining ownership, passive income, governance, and long-term capital appreciation through a secure, decentralized structure.
+
+---
+
+## Core Utilities of LAKE Token
+
+1. **Real Estate Access**  
+   Pay with LAKE to purchase or rent villas, yachts, spa & wellness services — with exclusive token-holder discounts.
+
+2. **Staking & Real Yield**  
+   Stake LAKE to earn a share of real revenues from rentals, hospitality, and resort operations.
+
+3. **Governance (DAO)**  
+   Vote on treasury usage, expansion plans, architectural concepts, and ecosystem policies.
+
+4. **Land-Backed Treasury (ETF Model)**  
+   A portion of the treasury will acquire land, giving holders exposure to appreciating assets.
+
+5. **Buy-Back Mechanism**  
+   Revenues will be used for periodic open-market buybacks — supporting price growth.
+
+6. **Loyalty & Rewards**  
+   NFT perks, cashback, and premium memberships for long-term holders.
+
+7. **Cross-Project Utility**  
+   LAKE will power future resorts and luxury developments under the Lake Club brand.
+
+8. **Price Stability Logic**  
+   Daily wallet trading caps and anti-whale rules reduce volatility.
+
+---
+
+## Tokenomics
+
+**Total Supply**: 1,000,000,000 LAKE
+
+| Category                        | %   | Tokens        | Vesting / Unlock                         |
+|--------------------------------|-----|---------------|------------------------------------------|
+| Public Sale (IDO)              | 15% | 150,000,000   | 10% TGE, 6-month linear vesting          |
+| Private / Strategic Investors  | 15% | 150,000,000   | 6-month lock, 12-month vesting           |
+| Team & Advisors                | 15% | 150,000,000   | 12-month lock, 24-month vesting          |
+| Staking / Real Yield           | 20% | 200,000,000   | DAO-managed rewards                      |
+| Ecosystem / Airdrops / Loyalty| 20% | 200,000,000   | Gradual release based on participation   |
+| Treasury / DAO Governance      | 10% | 100,000,000   | Multi-sig, proposal-based allocations     |
+| Liquidity Provision            | 5%  | 50,000,000    | DEX/CEX, LP pools, farming incentives    |
+
+---
+
+## Technical Highlights
+
+- Solidity Version: 0.8.26  
+- License: MIT  
+- Smart Contract Verified on BscScan  
+- Optimized Bytecode (200 runs)  
+- Secure Time-Locked Ownership Transfer  
+- Buy-Back & Burn Mechanism  
+- Anti-Reentrancy (OpenZeppelin)  
+- No External Oracle Dependency
+
+---
+
+## Why LAKE is a Global-Grade Token?
+
+- **Real Yield, Not Emissions**: Earn from real resort revenue  
+- **Backed by Land**: Tokenized real estate ETF logic  
+- **DAO-Driven**: Real governance and treasury control  
+- **Secure**: Built with OpenZeppelin, verified on BscScan  
+- **Luxury Lifestyle Integration**  
+- **Proven Team**: 80+ years combined in global finance, real estate, Web3
+
+---
+
+## Roadmap
+
+**Q1 2025** — Token Deployment, Website Launch, Airdrop, Whitelist  
+**Q2 2025** — IDO, PancakeSwap Listing, Staking Launch  
+**Q3 2025** — Resort Phase 1 Opening, NFT Tier Launch  
+**Q4 2025** — DAO Launch, CoinGecko & CMC Listing, CEX Applications  
+**2026+** — Global Resort Expansion, DAO-Led Development, Land ETF Growth
+
+---
+
+## Conclusion
+
+LAKE Token bridges real-world assets with blockchain innovation.  
+Verified, auditable, and backed by real yield and tangible value — it redefines the standard for tokenized real estate.
+
+---
+
+**Website**: [www.lakeresortresidence.com](https://www.lakeresortresidence.com)  
+**Smart Contract**: `0xa5706783e577b1a9a9a89502efb5387fedaec6e0`  
+**Contact**: investors@lakeresortresidence.com
